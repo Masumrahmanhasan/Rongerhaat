@@ -1,0 +1,37 @@
+.usr_menu_wrap, .usr_content_wrap {
+}
+
+.usr_menu_box{
+    box-shadow: 0px 0px 5px #ccc;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.usr_content_box {
+    box-shadow: 0px 0px 5px #ccc;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.form-control {
+    max-width: 100%;
+}
+
+.step-title {
+    margin-top: 0px !important;
+}
+
+.usr_table thead th {
+    font-weight: 600;
+    border: 0;
+    padding: 2.4rem 1.5rem 1.2rem;
+    vertical-align: middle;
+}
+
+.usr_table tbody tr td {
+    border-top: 1px solid #ddd;
+    vertical-align: middle;
+    padding: 2rem 1.5rem;
+}
